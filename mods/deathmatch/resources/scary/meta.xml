@@ -1,0 +1,7 @@
+<meta>
+	<info author="By!SaLaH!" name="prank" version="1.0" type="script" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<file src="img.jpg" download="true"/>
+	<file src="sound.mp3" download="true"/>
+</meta>
